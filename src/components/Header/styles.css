@@ -1,0 +1,23 @@
+.header_container{
+    background-image: linear-gradient(to right, rgb(20,147,220), rgb(17,54,71));
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo_header{
+    width: 60px;
+    height: 60px;
+    margin: 20px;
+}
+
+.header_lista{
+    list-style: none;
+    color: #FFF;
+    display: flex;
+   
+}
+
+.item_list_header{
+    margin: 0 20px;
+}
